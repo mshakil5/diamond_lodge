@@ -11,11 +11,10 @@
                 <h2 class="title-global text-center">
                     Contact & Location
                 </h2>
-                <p><b>From Train Station (1.5 miles)</b></p>
-                <p>Continue to Station Rd/A1036 1 min (423 ft) Follow A1036, B1363 and Haxby Rd to Rose St 7 min (1.3 mi) Continue on Rose St. Drive to Vyner St</p>
-                <br/>
-                <p><b>Road from A64 (4.0 miles)</b></p>
-                <p>If you are travelling by car, we have a detailed map of the local routes by road below. To avoid the city traffic and one-way system, we suggest that you follow the Northen Ring Road (A1237). Turn into York at Roundabout with B1363 and follow signs for District Hospital. Turn sharp left at traffic lights onto Haxby Road after the Hospital. Continue up past Diamonds Villa (on Left) then take second left into Rose Street (Before Bridge)</p>
+                <p><b>From Train Station (1.3 miles)</b></p>
+                <p>1. Head north on Queen St/A1036, Continue to follow A1036 2. Slight right onto Station Rd 3. Continue onto Museum St/A1036 4. Turn left onto St Leonard's Pl/A19 5. Take the 2nd right onto Gillygate/A1036, Continue to follow Gillygate 6. Continue onto Clarence St/B1363 7. Keep left at the fork, Continue to follow B1363 8. Turn right onto Fountayne St 9. Turn Left.</p>
+                <p><b>Road from Hertz Car Hire York Station</b></p>
+                <p>1. Head northeast toward Station Rd/A1036 2. Turn left onto Station Rd/A1036, Continue to follow A1036 3. Slight right onto Station Rd 4. Continue onto Museum St/A1036 5. Turn left onto St Leonard's Pl/A19 6. Take the 2nd right onto Gillygate/A1036, Continue to follow Gillygate 7. Continue onto Clarence St/B1363 8. Keep left at the fork, Continue to follow B1363 9. Turn right onto Fountayne St 10. Turn left</p>
 
 
             </div>
@@ -60,7 +59,7 @@
             <div class="col-md-6">
                 
                
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2346.745528269417!2d-1.0802137841378687!3d53.971786480114865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879319862e2344f%3A0xed396ee67a5dbdd!2sOYO%20Diamonds%20Villa!5e0!3m2!1sen!2suk!4v1688472725622!5m2!1sen!2suk" width="100%" height="380" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2346.75580074679!2d-1.0842802236884987!3d53.971604072477234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879312c492c7cd1%3A0xdf8a7fc8293404c7!2sDiamonds%20lodge!5e0!3m2!1sen!2suk!4v1688472820836!5m2!1sen!2suk" width="100%" height="380" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
             </div>

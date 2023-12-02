@@ -15,7 +15,7 @@
 
                 </p>
                     
-                    <a href="" class="text-decoration-none", style="color:#FF00ff"; title="For Booking Call Now"><h5 class="my-2"> 07778529048 | 07717941122 | 07340631122 Email: diamondsvillayork@gmail.com</h5></a>
+                    <a href="" class="text-decoration-none", style="color:#FF00ff"; title="For Booking Call Now"><h5 class="my-2"> 07778529048 | 07717941122 | 07340631122 Email: diamondslodgeyork@gmail.com</h5></a>
                     
                     
  
