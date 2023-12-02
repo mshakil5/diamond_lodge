@@ -78,7 +78,7 @@ class FrontendController extends Controller
         $array['message'] = "Diamonds Inn Servey";
         $array['from'] = 'do-not-reply@diamondsinn.co.uk';
         $array['cc'] = $request->email;
-        $email = "diamondsvillayork@gmail.com";
+        $email = "diamondslodgeyork@gmail.com";
 
         Mail::send('email.servey', compact('array'), function($message)use($array,$email) {
                 $message->from($array['from'], 'diamondsinn.co.uk');
@@ -104,7 +104,7 @@ class FrontendController extends Controller
         $array['email'] = $request->email;
         $array['message'] = $request->message;
         $array['from'] = 'do-not-reply@diamondsinn.co.uk';
-        $email = "diamondsvillayork@gmail.com";
+        $email = "diamondslodgeyork@gmail.com";
 
         Mail::send('email.contact', compact('array'), function($message)use($array,$email) {
                 $message->from($array['from'], 'diamondsinn.co.uk');
