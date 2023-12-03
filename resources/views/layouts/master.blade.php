@@ -6,8 +6,8 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Diamonds Lodge  - York - Yorkshire</title>
-    <meta name="description" content="Treat Yourself at Diamonds Inn, York. Browse Reviews. Our Price Guarantee. Check Out What Users Loved About This Property. Book the Room">
-   <meta name="keywords" content="guest hosue, student house, accomodation, york, cheap hotel, B and B,bed and breakfast, yorkshire, west yorkshire, england, north england, diamonds inn, air bnb,  ">
+    <meta name="description" content="Treat Yourself at Diamonds Lodge Guest House, York. Browse Reviews. Our Price Guarantee. Check Out What Users Loved About This Property. Book the Room">
+   <meta name="keywords" content="guest hosue, accomodation, york, cheap hotel, B and B,bed and breakfast, yorkshire, west yorkshire, england, north england, ">
   
     <link rel="stylesheet" href="{{ asset('assets/frontend/css/bootstrap@5.3.0_dist_css_bootstrap.min.css')}}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/frontend/css/slick.css')}}" />
