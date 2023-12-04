@@ -127,9 +127,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-9 mx-auto  text-justify">
-                <h2 class="title-global  text-center">Welcome to Diamonds Lodge</h2>
                 
-
                 <div class="about-right ">
                     <p><b>Diamonds Lodge</b> is an elegant three story Victorian town house in a fantastic city centre location. The guest house presents itself as an ideal base for you to explore the historical city of York just 10 minutes walk from the Historic York Minster.
  
