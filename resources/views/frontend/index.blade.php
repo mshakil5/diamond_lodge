@@ -150,10 +150,12 @@
         </div>
         <div class="row mt-5 mb-3">
             <div class="blog-slider">
+
+                {{-- Single room-Comfort-Ensuite --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
-                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/1.png')}}" alt="">
+                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/1.png')}}" alt="" style="height: 375px">
                         </a>
                     </div>
                     <div class="blog-content">
@@ -168,10 +170,12 @@
                         </div>
                     </div>
                 </div>
+
+                {{-- Double room-Standard-Ensuite --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
-                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/4.png')}}" alt="">
+                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/4.png')}}" alt="" style="height: 375px">
                         </a>
                     </div>
                     <div class="blog-content">
@@ -186,10 +190,12 @@
                         </div>
                     </div>
                 </div>
+
+                {{-- Twin room-Ensuite --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
-                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/3.png')}}" alt="">
+                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/3.png')}}" alt="" style="height: 375px">
                         </a>
                     </div>
                     <div class="blog-content">
@@ -204,10 +210,12 @@
                         </div>
                     </div>
                 </div>
+
+                {{-- Double room-Ensuite - Base Rate --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
-                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/4.png')}}" alt="">
+                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/double.jpeg')}}" alt="" style="height: 375px">
                         </a>
                     </div>
                     <div class="blog-content">
@@ -222,10 +230,12 @@
                         </div>
                     </div>
                 </div>
+
+                {{-- Quad room-Superior-Ensuite with Shower --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
-                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/5.png')}}" alt="">
+                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/quad.jpg')}}" alt="" style="height: 375px">
                         </a>
                     </div>
                     <div class="blog-content">
