@@ -33,8 +33,20 @@
                     
 
                     <br/><br/>We will also strive to maintain a courteous and friendly atmosphere during your stay.</p>
-                    </br>
-                </br>
+                    <br>
+
+                    <p><b>Limited Private parking available</b></p>
+                     <p  style="color: red"><b>Check-in time:  2:00 pm <br>Check-out time: 	10.30 am</b></p>
+                     <p><b>Address & contact information:</b></p>
+                     <p>23 Wigginton Road</p>
+                     <p>York </p>
+                     <p>YO31 8HJ</p>
+                     <br>
+                     <p  style="color: red">For Booking: call 07340631122, 07778529048, 07717941122 <br>
+                     Email: diamondslodgeyork@gmail.com</p>
+                     <p>Directions:	(Link)</p>
+                     <p>Public Parking: www.yourparkingspace.co.uk</p>
+                     <p>Nearest Bus Stops: Wigginton Road (York Hospital), Haxby Road Primary School</p>
                 
                 </div>
             </div>
