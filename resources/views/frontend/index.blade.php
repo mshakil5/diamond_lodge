@@ -147,7 +147,6 @@
                      <p>Limited Private parking available</p>
                      <p>Check-in time:  2:00 pm <br>Check-out time: 	10.30 am</p>
                      <p><b>Address & contact information:</b></p>
-                     <p>2 Vyner Street</p>
                      <p>23 Wigginton Road</p>
                      <p>York </p>
                      <p>YO31 8HJ</p>
